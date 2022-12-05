@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heze Chen / Superman-Love&Peace"
+title                    : "Heze Chen / Monkey - Love & Peace"
 title_separator          : "-"
 name                     : &name "Heze Chen"
 description              : &description "personal description"
@@ -43,7 +43,7 @@ staticman:
     email                : "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : "12-04-2022"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :&twitter
+  username               : chenheze1994&twitter
 facebook:
-  username               :
+  username               : heze.chen
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XQPKcPUAAAAJ"
-  email            :
+  email            : "heze@virfinia.edu"
   researchgate     : "https://www.researchgate.net/profile/Heze-Chen"
   uri              :
   bitbucket        :
