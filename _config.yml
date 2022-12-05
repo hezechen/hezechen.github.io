@@ -85,7 +85,7 @@ author:
   bio              : "Graduate student in Univeristy of Virginia"
   location         : "Charlottesville, VA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XQPKcPUAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Heze-Chen"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :'https://www.youtube.com/channel/UCPPeMZjUBIbVoybsCfQ16Qg'
+  youtube          : "https://www.youtube.com/channel/UCPPeMZjUBIbVoybsCfQ16Qg"
   wikipedia        :
 
 
