@@ -1,9 +1,9 @@
 ---
 title: "Saint Venant’s torsion of homogeneous and composite bars by the finite volume method"
 collection: publications
-permalink: https://www.sciencedirect.com/science/article/abs/pii/S026382231933689X
+permalink: /publication/2020-06-15-paper-title-number-1.md
 excerpt: 'Volume 242, 112128'
-date: 15 June 2020
+date: 2020-06-15
 venue: 'Composite Structures'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S026382231933689X'
 citation: 'Chen, H., Gomez, J., & Pindera, M. J. (2020). Saint Venant’s Torsion of Homogeneous and Composite Bars by the Finite Volume Method. Composite Structures, 112128.'
