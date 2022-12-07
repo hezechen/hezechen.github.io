@@ -1,5 +1,5 @@
 ---
-title: "Saint Venant’s torsion of homogeneous and composite bars by the finite volume method"
+title: "Saint Venants torsion of homogeneous and composite bars by the finite volume method"
 collection: publications
 permalink: /publication/2020-06-15-paper-title-number-1.md
 excerpt: 'Volume 242, 112128'
