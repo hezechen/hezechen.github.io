@@ -1,8 +1,8 @@
 ---
 title: "Parametric finite-volume method for Saint Venant’s torsion of arbitrarily shaped cross sections"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Volume 256, 15 January 2021, 113052'
+permalink: /publication/2021-01-15-paper-title-number-2
+excerpt: 'Volume 256, 113052'
 date: 2021-01-15
 venue: 'Composite Structures'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0263822320329780'
