@@ -1,5 +1,5 @@
 ---
-title: "Parametric finite volume method for Saint Venant’s torsion of arbitrarily shaped cross sections"
+title: "Parametric finite-volume method for Saint Venant’s torsion of arbitrarily shaped cross sections"
 collection: publications
 permalink: /publication/2021-01-15-paper-title-number-2
 excerpt: 'Volume 256, 113052'
