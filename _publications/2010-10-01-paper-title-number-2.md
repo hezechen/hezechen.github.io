@@ -3,7 +3,7 @@ title: "Parametric finite-volume method for Saint Venant’s torsion of arbitrar
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Volume 256, 15 January 2021, 113052'
-date: 2010-10-01
+date: 2021-01-15
 venue: 'Composite Structures'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0263822320329780'
 citation: 'Chen, H., Gomez, J., & Pindera, M. J. (2020). Parametric Finite-Volume Method for Saint Venant's Torsion of Arbitrarily Shaped Cross Sections, Composite Structures, 113052.'
