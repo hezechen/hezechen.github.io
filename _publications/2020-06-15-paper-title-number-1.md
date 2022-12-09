@@ -12,4 +12,4 @@ We propose a new finite-volume based approach to the solution of Saint Venant’
 
 [Download paper here](https://doi.org/10.1016/j.compstruct.2020.112128)
 
-Recommended citation: Chen, H., Gomez, J., & Pindera, M. J. (2020). Saint Venant's Torsion of Homogeneous and Composite Bars by the Finite Volume Method. Composite Structures, 112128.
+Recommended citation: Chen, H., Gomez, J., & Pindera, M. J. (2020). Saint Venant's Torsion of Homogeneous and Composite Bars by the Finite Volume Method. Composite Structures, 242, 112128.
