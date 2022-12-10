@@ -1,5 +1,5 @@
 ---
-title: "Co instructor"
+title: "Co-instructor"
 collection: teaching
 type: "Advanced Structure Analysis"
 permalink: /teaching/2021-fall-teaching-2
