@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, Zhejiang University of Technology, Zhejiang, China, 2012-2016
+* M.S. in Civil Engineering, University of Virginia, 2017-2019
+* Ph.D in Civil Engineering, University of Virginia, 2019-2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Project Technician, Quality & Safety Officer (2016/08 - 2017/07)
+  * Kindergarten & Elementary School Project, Dingqiao West R22-02-03, Hangzhou, China
+  * No.36 Commercial Housing Project, Jingfang FG-02-C2-1, Hangzhou, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Intern Construction Technician
+  * No.36 Commercial Housing Project, Jingfang FG-02-C2-1, Hangzhou, China
   
-Skills
+Professional Certification:
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* FE Civil, E.I.T.
+* Qualified Associate Constructors in People’s Republic of China (Division of Zhejiang Province)
+* Civil-3D AutoCAD Certification – UVA Transportation Training Academy
+
+Professional Projects:
+======
+* Compositing Poaceae: Grass Assemblies for Architecture and Construction (05/2021- present)
+* R22-02-03, Kindergarten & Elementary School Project, Dingqiao West (11/2016-07/2017)
+* FG-02-C2-1, No.36 Commercial Housing Project, Jingfang (08/2016-10/2016)
+
+Skills:
+======
+* Softwares
+  * Structrual analysis: ANSYS, LS-DYNA.
+  * Design: AutoCAD, Solidworks.
+* Computer languages
+  * MATLAB, Python, R, Visual Basic (National Level Two Certificate), Pascal.
 
 Publications
 ======
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of American Society of Civil Engineers (ASCE)
