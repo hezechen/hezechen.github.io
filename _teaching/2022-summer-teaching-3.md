@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant (DS 6040)"
 collection: teaching
 type: "Bayesian machine learning"
 permalink: /teaching/2022-summer-teaching-3
