@@ -1,5 +1,5 @@
 ---
-title: "Co-instructor"
+title: "Co-instructor (CE 5340)"
 collection: teaching
 type: "Advanced Structure Analysis"
 permalink: /teaching/2021-fall-teaching-2
