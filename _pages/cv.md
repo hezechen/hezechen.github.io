@@ -21,7 +21,7 @@ Work experience
   * Kindergarten & Elementary School Project, Dingqiao West R22-02-03, Hangzhou, China
   * No.36 Commercial Housing Project, Jingfang FG-02-C2-1, Hangzhou, China
 
-* Intern Construction Technician
+* Intern Construction Technician (2015/08- 2015/10)
   * No.36 Commercial Housing Project, Jingfang FG-02-C2-1, Hangzhou, China
   
 Professional Certification:
