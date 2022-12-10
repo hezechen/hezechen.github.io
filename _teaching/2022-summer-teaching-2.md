@@ -8,7 +8,7 @@ date: 2022-05-25
 location: "Charlottesville, VA"
 ---
 
-Teaching activities in bayesian machine learning:
+Teaching activities in Bayesian machine learning:
 
 Served terms
 ======
