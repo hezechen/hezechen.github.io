@@ -1,14 +1,14 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Linear algebra"
+type: "teaching"
 permalink: /teaching/2018-fall-teaching-1
-venue: "University of Virginia, Applied Mathematics Department"
+venue: "University of Virginia, Applied Mathematics Department (APMA)"
 date: 2018-08-23
 location: "Charlottesville, VA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Activities in Linear algebra.
 
 Served terms
 ======
