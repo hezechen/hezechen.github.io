@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant (APMA 3080)"
 collection: teaching
 type: "Linear algebra"
 permalink: /teaching/2018-fall-teaching-1
