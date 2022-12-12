@@ -13,8 +13,12 @@ PhD Research Topic: Finite volume method in structure engineering
 Reserach interests
 ======
 •	Structural Modeling and Simulation
+
 •	Functional Graded Materials
+
 •	Composite Mechanics
+
 •	Machine Learning
+
 •	Sustainable Architectural Engineering
 
