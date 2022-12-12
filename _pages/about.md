@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Everything can be explained by simple but aesthetic principles thanks to the beauty of the mother nature."
+title: "Everything can be explained by simple but aesthetic principles which are the inner beauty of the mother nature."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+PhD Research Topic: Finite volume method in structure engineering
 
 Reserach interests
 ======
-PhD Research Topic: Finite volume method in structure engineering
+•	Structural Modeling and Simulation
+•	Functional Graded Materials
+•	Composite Mechanics
+•	Machine Learning
+•	Sustainable Architectural Engineering
+
