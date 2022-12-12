@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Everything can be explained by simple but aesthetic principles which are the inner beauty of the mother nature."
+title: "Everything can be explained by simple but aesthetic principles which are the inner beauty of mother nature."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
