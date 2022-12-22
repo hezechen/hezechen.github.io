@@ -10,6 +10,6 @@ location: "Charlottesville, VA"
 
 Teaching activities in Introduction to Design of Structural Systems:
 
-Served term
+Served terms
 ======
 2023 Spring.
