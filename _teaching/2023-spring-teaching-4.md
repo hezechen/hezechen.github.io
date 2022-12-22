@@ -1,15 +1,15 @@
 ---
-title: "Graduate Teaching Assistant (DS 6040)"
+title: "Graduate Teaching Assistant (CE 3330)"
 collection: teaching
-type: "Bayesian machine learning"
-permalink: /teaching/2022-summer-teaching-3
-venue: "University of Virginia, School of Data Science"
-date: 2022-05-25
+type: "Introduction to Design of Structural Systems"
+permalink: /teaching/2023-spring-teaching-4
+venue: "University of Virginia, Engineering Systems and Environments Department (ESE)"
+date: 2023-01-15
 location: "Charlottesville, VA"
 ---
 
-Teaching activities in Bayesian machine learning:
+Teaching activities in Introduction to Design of Structural Systems:
 
-Served terms
+Served term
 ======
-2022 Summer, 2022 Fall.
+2023 Spring.
