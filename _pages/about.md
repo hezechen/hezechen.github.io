@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " - Heze Chen -"
+title: "Personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
