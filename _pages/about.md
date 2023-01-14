@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
---- "Everything can be explained by simple but aesthetic principles which are the inner beauty of mother nature."
+> "Everything can be explained by simple but aesthetic principles which are the inner beauty of mother nature."
 
 PhD Research Topic: Finite volume method in structure engineering
 
