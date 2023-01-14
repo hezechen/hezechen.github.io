@@ -16,13 +16,8 @@ PhD Dissertation title: Bridging elasticity and structural engineering with the 
 
 Reserach interests
 ======
-•	Structural Modeling and Simulation
-
-•	Functional Graded Materials
-
-•	Composite Mechanics
-
-•	Machine Learning
-
-•	Sustainable Architectural Engineering
-
+* Structural Modeling and Simulation
+* Functional Graded Materials
+* Composite Mechanics
+* Machine Learning
+* Sustainable Architectural Engineering
