@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Everything can be explained by simple but aesthetic principles which are the inner beauty of mother nature."
+title: " - Heze Chen -"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+--- "Everything can be explained by simple but aesthetic principles which are the inner beauty of mother nature."
+
 PhD Research Topic: Finite volume method in structure engineering
+
+PhD Dissertation title: Bridging elasticity and structural engineering with the finite volume method
 
 Reserach interests
 ======
