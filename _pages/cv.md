@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education:
 ======
 * B.S. in Civil Engineering, Zhejiang University of Technology, Zhejiang, China, 2012-2016
 * M.S. in Civil Engineering, University of Virginia, 2017-2019
 * Ph.D in Civil Engineering, University of Virginia, 2019-2023
 
-Work experience
+Work experience:
 ======
 * Project Technician, Quality & Safety Officer (2016/08 - 2017/07)
   * Kindergarten & Elementary School Project, Dingqiao West R22-02-03, Hangzhou, China
@@ -24,7 +24,7 @@ Work experience
 * Intern Construction Technician (2015/08- 2015/10)
   * No.36 Commercial Housing Project, Jingfang FG-02-C2-1, Hangzhou, China
   
-Professional Certification:
+Professional Certifications:
 ======
 * FE Civil, E.I.T.
 * Qualified Associate Constructors in People’s Republic of China (Division of Zhejiang Province)
