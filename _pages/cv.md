@@ -11,9 +11,9 @@ redirect_from:
 
 Education:
 ======
-* B.S. in Civil Engineering, Zhejiang University of Technology, Zhejiang, China, 2012-2016
-* M.S. in Civil Engineering, University of Virginia, 2017-2019
-* Ph.D in Civil Engineering, University of Virginia, 2019-2023
+* B.S. in Civil Engineering, Zhejiang University of Technology, Zhejiang, China, 2012 - 2016
+* M.S. in Civil Engineering, University of Virginia, 2017 - 2019
+* Ph.D in Civil Engineering, University of Virginia, 2019 - 2023
 
 Work experience:
 ======
@@ -21,7 +21,7 @@ Work experience:
   * Kindergarten & Elementary School Project, Dingqiao West R22-02-03, Hangzhou, China
   * No.36 Commercial Housing Project, Jingfang FG-02-C2-1, Hangzhou, China
 
-* Intern Construction Technician (2015/08- 2015/10)
+* Intern Construction Technician (2015/08 - 2015/10)
   * No.36 Commercial Housing Project, Jingfang FG-02-C2-1, Hangzhou, China
   
 Professional Certifications:
@@ -32,9 +32,9 @@ Professional Certifications:
 
 Professional Projects:
 ======
-* Compositing Poaceae: Grass Assemblies for Architecture and Construction (05/2021-05/2023)
-* R22-02-03, Kindergarten & Elementary School Project, Dingqiao West (11/2016-07/2017)
-* FG-02-C2-1, No.36 Commercial Housing Project, Jingfang (08/2016-10/2016)
+* Compositing Poaceae: Grass Assemblies for Architecture and Construction (05/2021 - 05/2023)
+* R22-02-03, Kindergarten & Elementary School Project, Dingqiao West (11/2016 - 07/2017)
+* FG-02-C2-1, No.36 Commercial Housing Project, Jingfang (08/2016 - 10/2016)
 
 Skills:
 ======
