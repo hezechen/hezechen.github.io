@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Civil Engineering, Zhejiang University of Technology, Zhejiang, China, 2012-2016
 * M.S. in Civil Engineering, University of Virginia, 2017-2019
-* Ph.D in Civil Engineering, University of Virginia, 2019-2023 (expected)
+* Ph.D in Civil Engineering, University of Virginia, 2019-2023
 
 Work experience
 ======
@@ -32,7 +32,7 @@ Professional Certification:
 
 Professional Projects:
 ======
-* Compositing Poaceae: Grass Assemblies for Architecture and Construction (05/2021- present)
+* Compositing Poaceae: Grass Assemblies for Architecture and Construction (05/2021-05/2023)
 * R22-02-03, Kindergarten & Elementary School Project, Dingqiao West (11/2016-07/2017)
 * FG-02-C2-1, No.36 Commercial Housing Project, Jingfang (08/2016-10/2016)
 
