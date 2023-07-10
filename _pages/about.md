@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 B.S. Civil engineering, Zhejiang Univerisity of Technology, 2016
+
 M.S. Civil engineering, Univeristy of Virginia, 2019
+
 Ph.D. Civil engineering, Univeristy of Virginia, 2023
 
 > "Everything can be explained by simple but aesthetic principles which are the inner beauty of mother nature.  - Heze's personal thought every time he debugs something"
