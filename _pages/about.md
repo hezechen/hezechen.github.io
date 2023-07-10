@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Heze Chen"
+title: "Mathematical Muse Cage: Heze Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
