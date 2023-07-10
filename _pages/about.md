@@ -29,6 +29,6 @@ Reserach interests
 * Machine Learning
 * Sustainable Architectural Engineering
 
-PhD Research Topic: Finite volume method in structure engineering
+**PhD Research Topic:** Finite volume method in structure engineering
 
-PhD Dissertation title: Bridging elasticity and structural engineering with the finite volume method
+**PhD Dissertation title:** Bridging elasticity and structural engineering with the finite volume method
