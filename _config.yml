@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heze Chen / Monkey - Love & Peace"
-title_separator          : "-"
+title                    : "Heze Chen"
+title_separator          : "Monkey - Love & Peace"
 name                     : &name "Heze Chen"
 description              : &description "personal description"
 url                      : https://hezechen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
