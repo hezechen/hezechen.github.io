@@ -4,11 +4,9 @@ collection: teaching
 type: "Linear algebra"
 permalink: /teaching/2018-fall-teaching-1
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
-date: 2018-08-24
+date: 2018-08-24 (start)
 location: "Charlottesville, VA"
 ---
-
-Teaching activities in Linear algebra:
 
 Served terms
 ======
@@ -20,4 +18,5 @@ Teaching Methods for Higher Education, UVA Center for Teaching Excellence (2019 
 
 Awards
 ======
-Nominee of Annual University Teaching Award (2020/2021).
+Nominee of Annual University Teaching Award (2020/2021),
+Nominee of Annual University Teaching Award (2022/2023).
