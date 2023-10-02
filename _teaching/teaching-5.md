@@ -1,8 +1,8 @@
 ---
-title: "Graduate Teaching Assistant (APMA 3080)"
+title: "Instructor (APMA 2120)"
 collection: teaching
-type: "Linear algebra"
-permalink: /teaching/2018-fall-teaching-1
+type: "Multivariable Calculus"
+permalink: /teaching/teaching-5
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
 date:
 location: "Charlottesville, VA"
@@ -10,13 +10,5 @@ location: "Charlottesville, VA"
 
 Served terms
 ======
-2018 Fall, 2019 Spring, 2019 Fall, 2020 Spring, 2020 Fall, 2021 Spring, 2022 Spring.
+2023 Fall.
 
-Professional training
-======
-Teaching Methods for Higher Education, UVA Center for Teaching Excellence (2019 Spring).
-
-Awards
-======
-Nominee of Annual University Teaching Award (2020/2021),
-Nominee of Annual University Teaching Award (2022/2023).
