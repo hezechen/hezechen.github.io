@@ -40,7 +40,7 @@ Skills:
 ======
 * Softwares
   * Structrual analysis: ANSYS, LS-DYNA.
-  * Design: AutoCAD, Solidworks.
+  * Design: AutoCAD, SolidWorks.
 * Computer languages
   * MATLAB, Python, R, Visual Basic (National Level Two Certificate), Pascal.
 
