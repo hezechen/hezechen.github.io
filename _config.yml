@@ -43,7 +43,7 @@ staticman:
     email                : "md5"
   generatedFields:
     date:
-      type               : "01-09-2023"
+      type               : "10-01-2023"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor in Appiled Mathematics, Univeristy of Virginia"
   location         : "Charlottesville, VA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XQPKcPUAAAAJ"
   email            : "heze@virginia.edu"
   researchgate     : "https://www.researchgate.net/profile/Heze-Chen"
