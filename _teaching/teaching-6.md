@@ -1,8 +1,8 @@
 ---
 title: "Instructor (APMA 2120)"
 collection: teaching
-type: "Multivariable Calculus"
-permalink: /teaching/teaching-5
+type: "From Data to Knowledge"
+permalink: /teaching/teaching-6
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
 date:
 location: "Charlottesville, VA"
