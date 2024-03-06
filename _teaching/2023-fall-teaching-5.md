@@ -10,5 +10,5 @@ location: "Charlottesville, VA"
 
 Served terms
 ======
-2023 Fall.
+2023 Fall, 2024 Fall.
 
