@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced Structure Analysis"
 permalink: /teaching/2021-fall-teaching-2
 venue: "University of Virginia, Engineering Systems and Environments Department (ESE)"
-date: 
+date: 2000-01-01
 location: "Charlottesville, VA"
 ---
 
