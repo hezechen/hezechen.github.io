@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to Design of Structural Systems"
 permalink: /teaching/2023-01-teaching-4
 venue: "University of Virginia, Engineering Systems and Environments Department (ESE)"
-date: 2000-01-01
+date: 2023-01-15
 location: "Charlottesville, VA"
 ---
 
