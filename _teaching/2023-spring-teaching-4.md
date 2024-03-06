@@ -8,6 +8,4 @@ date: 2000-01-01
 location: "Charlottesville, VA"
 ---
 
-Served terms
-======
-2023 Spring.
+Served terms: 2023 Spring.
