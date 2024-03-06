@@ -4,7 +4,7 @@ collection: teaching
 type: "Bayesian machine learning"
 permalink: /teaching/2022-summer-teaching-3
 venue: "University of Virginia, School of Data Science (DS)"
-date:
+date: 2000-01-01
 location: "Charlottesville, VA"
 ---
 
