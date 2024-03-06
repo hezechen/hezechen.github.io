@@ -4,7 +4,7 @@ collection: teaching
 type: "Multivariable Calculus"
 permalink: /teaching/2023-08-teaching-5
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
-date: 2000-01-01
+date: 2023-08-15
 location: "Charlottesville, VA"
 ---
 
