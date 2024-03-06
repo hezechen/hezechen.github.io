@@ -8,16 +8,8 @@ date:
 location: "Charlottesville, VA"
 ---
 
-Served terms
-======
-2018 Fall, 2019 Spring, 2019 Fall, 2020 Spring, 2020 Fall, 2021 Spring, 2022 Spring.
+Served terms: 2018 Fall, 2019 Spring, 2019 Fall, 2020 Spring, 2020 Fall, 2021 Spring, 2022 Spring.
 
-Professional training
-======
-Teaching Methods for Higher Education, UVA Center for Teaching Excellence (2019 Spring).
+Professional training: Teaching Methods for Higher Education, UVA Center for Teaching Excellence (2019 Spring).
 
-Awards
-======
-Nominee of Annual University Teaching Award (2020/2021),
-
-Nominee of Annual University Teaching Award (2022/2023).
+Awards: Nominee of Annual University Teaching Award (2020/2021), Nominee of Annual University Teaching Award (2022/2023).
