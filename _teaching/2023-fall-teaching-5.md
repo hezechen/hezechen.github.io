@@ -8,4 +8,4 @@ date: 2000-01-01
 location: "Charlottesville, VA"
 ---
 
-Served terms: 2023 Fall, 2024 Fall.
+Served terms: 2023 Fall, 2024 Summer, 2024 Fall.
