@@ -2,7 +2,7 @@
 title: "Instructor (APMA 3150)"
 collection: teaching
 type: "From Data to Knowledge"
-permalink: /teaching/2023-fall-teaching-6
+permalink: /teaching/2023-08-teaching-6
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
 date: 2000-01-01
 location: "Charlottesville, VA"
