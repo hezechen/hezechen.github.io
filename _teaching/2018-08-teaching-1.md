@@ -4,7 +4,7 @@ collection: teaching
 type: "Linear algebra"
 permalink: /teaching/2018-08-teaching-1
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
-date: 2000-01-01
+date: 2018-08-15
 location: "Charlottesville, VA"
 ---
 
