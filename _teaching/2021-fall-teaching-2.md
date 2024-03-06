@@ -8,6 +8,4 @@ date: 2000-01-01
 location: "Charlottesville, VA"
 ---
 
-Served terms
-======
-2021 Fall.
+Served terms: 2021 Fall.
