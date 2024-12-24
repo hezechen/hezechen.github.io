@@ -8,5 +8,5 @@ date: 2023-08-15
 location: "Charlottesville, VA"
 ---
 
-Served terms: 2023 Fall, 2024 Spring, 2024 Fall.
+Served terms: 2023 Fall, 2024 Spring, 2024 Fall, 2025 Spring, 2025 Summer.
 
