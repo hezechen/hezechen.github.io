@@ -1,5 +1,5 @@
 ---
-title: "Instructor (APMA 2501)"
+title: "Co-instructor (APMA 2501)"
 collection: teaching
 type: "Programming in R & MATLAB"
 permalink: /teaching/2024-08-teaching-8
