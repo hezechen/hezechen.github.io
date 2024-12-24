@@ -1,11 +1,11 @@
 ---
-title: "Instructor (APMA 3080)"
+title: "Instructor (APMA 2501)"
 collection: teaching
-type: "Linear Algebra"
-permalink: /teaching/2024-01-teaching-7
+type: "Programming in R & MATLAB"
+permalink: /teaching/2024-08-teaching-8
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
-date: 2024-01-15
+date: 2024-08-15
 location: "Charlottesville, VA"
 ---
 
-Served terms: 2024 Spring.
+Served terms: 2024 Fall, 2025 Spring.
