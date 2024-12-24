@@ -15,7 +15,7 @@ Education:
 * M.S. in Civil Engineering, University of Virginia, 2017 - 2019
 * Ph.D in Civil Engineering, University of Virginia, 2019 - 2023
 
-Work experience:
+Construction Work Experience:
 ======
 * Project Technician, Quality & Safety Officer (2016/08 - 2017/07)
   * Kindergarten & Elementary School Project, Dingqiao West R22-02-03, Hangzhou, China
@@ -32,9 +32,12 @@ Professional Certifications:
 
 Professional Projects:
 ======
-* Compositing Poaceae: Grass Assemblies for Architecture and Construction (05/2021 - 05/2023)
-* R22-02-03, Kindergarten & Elementary School Project, Dingqiao West (11/2016 - 07/2017)
-* FG-02-C2-1, No.36 Commercial Housing Project, Jingfang (08/2016 - 10/2016)
+* UVA Engineering School Faculty Artificial Intelligence Guides Program: Virtual Assistant: Europa - Your APMA Course Advising Companion. (11/2024 - present)
+*	UVA Center for Applied Mathematics Education Innovation: Creation of a Programming Lab Teaching MATLAB & R and Investigation Its Impacts. (06/2024 - present)
+*	UVA Engineering School 2024 Dean’s Undergraduate Engineering Summer Fellowship Program: Interactive Learning Modules with Visualization in Multivariable Calculus. (05/2024 - 08/2024) 
+*	UVA Center for Applied Mathematics Research Project: Students’ Cognitions, Approaches and Challenges to Code Core Linear Algebra Concepts. (12/2023 - present)
+*	UVA Center for Teaching Excellence Thrive Grant Research Project: Enhancing Learning through Interactive Graphical User Interface (09/2023 - present)
+*	UVA 3 Cavaliers: Compositing Poaceae - Grass Assemblies for Architecture & Construction (05/2021 - 05/2023)
 
 Skills:
 ======
@@ -65,3 +68,4 @@ Teaching
 Service and leadership
 ======
 * Member of American Society of Civil Engineers (ASCE)
+* Member of American Society For Engineering Education (ASEE)
