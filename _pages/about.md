@@ -33,7 +33,6 @@ Reserach interests:
 
 **PhD Dissertation title:** Bridging elasticity and structural engineering with the finite volume method
 
-======
  █████╗ ██████╗ ███╗   ███╗ █████╗ 
 ██╔══██╗██╔══██╗████╗ ████║██╔══██╗
 ███████║██████╔╝██╔████╔██║███████║
