@@ -8,4 +8,4 @@ date: 2024-08-15
 location: "Charlottesville, VA"
 ---
 
-Served terms: 2024 Fall, 2025 Spring.
+Served terms: 2024 Fall, 2025 Spring, 2025 Fall.
