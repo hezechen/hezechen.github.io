@@ -23,11 +23,10 @@ Growing up on the east coast of China, Heze now lives in Charlottesville with hi
 
 Reserach interests:
 ======
-* Structural Modeling and Simulation
-* Functional Graded Materials
-* Composite Mechanics
-* Machine Learning
-* Sustainable Architectural Engineering
+* Structure Analysis
+*	Computational Solid Mechanics 
+*	Applied Mathematics Education 
+*	Sustainable Infrastructure Systems
 
 **PhD Research Topic:** Finite volume method in structure engineering
 
