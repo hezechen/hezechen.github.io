@@ -1,11 +1,11 @@
 ---
-title: "Co-instructor (APMA 2501)"
+title: "Instructor (APMA 2130)"
 collection: teaching
-type: "Programming in R & MATLAB"
-permalink: /teaching/2024-08-teaching-8
+type: "Ordinary Differential Equations"
+permalink: /teaching/2025-12-teaching-9
 venue: "University of Virginia, Applied Mathematics Department (APMA)"
-date: 2024-08-15
+date: 2025-08-23
 location: "Charlottesville, VA"
 ---
 
-Served terms: 2024 Fall, 2025 Spring, 2025 Fall.
+Served terms: 2025 Fall, 2026 Spring.
