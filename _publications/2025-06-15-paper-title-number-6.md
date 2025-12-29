@@ -14,6 +14,6 @@ The study examines how these applications can be effectively incorporated into t
 
 The integration of these applications not only potentially enhances learning but also fosters a collaborative environment. As the study progresses, we anticipate that the findings will demonstrate the pedagogical value of student involvement in application creation and the use of in-class learning games to optimize learning outcomes.
 
-[Download paper here]([https://doi.org/10.1016/j.compstruct.2020.112128](https://peer.asee.org/wip-integrating-student-developed-applications-and-in-class-learning-games-to-optimize-learning-outcomes-a-case-study-in-an-introductory-statistical-learning-and-programming-course.pdf))
+[Download paper here](https://peer.asee.org/wip-integrating-student-developed-applications-and-in-class-learning-games-to-optimize-learning-outcomes-a-case-study-in-an-introductory-statistical-learning-and-programming-course.pdf)
 
 Recommended citation: Chen, H., Li, M., & Fernando, A. M. (2025, June). WIP: Integrating Student-developed Applications and In-class Learning Games to Optimize Learning Outcomes: A Case Study in An Introductory Statistical Learning and Programming Course. In 2025 ASEE Annual Conference & Exposition.
